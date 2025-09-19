@@ -1,11 +1,11 @@
-# Fuzzy Systems and Computational Intelligence Projects  
+# Fuzzy Systems and Computational Intelligence – Projects  
 
 This repository contains coursework projects completed at **Aristotle University of Thessaloniki** for the course *Fuzzy Systems and Computational Intelligence*.  
 Each project applies fuzzy logic and computational intelligence methods to solve real-world problems in control, regression, and classification.  
 
 ---
 
-## **Project 1 – Satellite Control (PID vs Fuzzy Controller)**  
+## 📡 **Project 1 – Satellite Control (PID vs Fuzzy Controller)**  
 - **Goal**: Compare a classical PI/PID controller with a Fuzzy Logic Controller (FLC) in controlling a satellite system.  
 - **Approach**:  
   - Designed and tuned PI controllers using MATLAB Control Toolbox and root locus analysis.  
@@ -15,7 +15,7 @@ Each project applies fuzzy logic and computational intelligence methods to solve
 
 ---
 
-## **Project 2 – Car Control with Fuzzy Logic**  
+## 🚗 **Project 2 – Car Control with Fuzzy Logic**  
 - **Goal**: Implement a Fuzzy Logic Controller to control the position and heading of a car toward a target point.  
 - **Approach**:  
   - Modeled car movement with position `(x, y)` and heading angle θ.  
@@ -26,7 +26,7 @@ Each project applies fuzzy logic and computational intelligence methods to solve
 
 ---
 
-## **Project 3 – Regression with TSK Models**  
+## 📊 **Project 3 – Regression with TSK Models**  
 - **Goal**: Apply Takagi–Sugeno–Kang (TSK) fuzzy models to solve nonlinear regression problems.  
 - **Approach**:  
   - **Phase 1**: Used the [Airfoil Self-Noise dataset](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise) (UCI Repository) to train and evaluate TSK models with different output types (singleton vs polynomial) and varying numbers of membership functions.  
@@ -36,7 +36,7 @@ Each project applies fuzzy logic and computational intelligence methods to solve
 
 ---
 
-## **Project 4 – Classification with TSK Models**  
+## 🧩 **Project 4 – Classification with TSK Models**  
 - **Goal**: Investigate the ability of Takagi–Sugeno–Kang (TSK) fuzzy models in solving classification problems.  
 - **Approach**:  
   - **Phase 1**: Applied TSK models to the [Haberman’s Survival dataset](https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival) (UCI Repository).  
@@ -52,6 +52,6 @@ Each project applies fuzzy logic and computational intelligence methods to solve
 
 ---
 
-## **Technologies Used**  
+## 🛠️ **Technologies Used**  
 - MATLAB (Control Toolbox, Fuzzy Logic Toolbox)  
 - UCI Datasets ([Airfoil Self-Noise](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise), [Superconductivity](https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data), [Haberman’s Survival](https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival), [Epileptic Seizure Recognition](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition))  

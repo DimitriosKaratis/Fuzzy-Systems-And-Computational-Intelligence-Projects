@@ -1,6 +1,6 @@
-# Fuzzy Systems and Computational Intelligence – Projects  
+# Fuzzy Systems and Computational Intelligence Projects  
 
-This repository contains coursework projects completed at **Aristotle University of Thessaloniki** for the course *Fuzzy Systems and Computational Intelligence*.  
+This repository contains coursework projects completed at **Aristotle University of Thessaloniki** for the course *Fuzzy Systems and Computational Intelligence* of the **Electrical and Computer Engineering Department**.
 Each project applies fuzzy logic and computational intelligence methods to solve real-world problems in control, regression, and classification.  
 
 ---

@@ -3,7 +3,7 @@
 This repository contains coursework projects completed at **Aristotle University of Thessaloniki** for the course *Fuzzy Systems and Computational Intelligence* of the **Electrical and Computer Engineering Department**.<br>
 Each project applies fuzzy logic and computational intelligence methods to solve real-world problems in control, regression, and classification.  
 
----
+--- 
 
 ## 📡 **Project 1 – Satellite Control (PID vs Fuzzy Controller)**  
 - **Goal**: Compare a classical PI/PID controller with a Fuzzy Logic Controller (FLC) in controlling a satellite system.  
